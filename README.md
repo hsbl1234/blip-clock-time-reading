@@ -2,6 +2,7 @@
 
 A fine-tuned BLIP (Bootstrapping Language-Image Pre-training) model for accurate time reading from analog clock and watch images.
 
+![prediction with original blip model](https://github.com/user-attachments/assets/812572df-8108-4c44-93b7-de5dcc344740)
 ![Python](https://img.shields.io/badge/python-v3.7+-blue.svg)
 ![PyTorch](https://img.shields.io/badge/PyTorch-v1.12+-red.svg)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-v4.21+-yellow.svg)
