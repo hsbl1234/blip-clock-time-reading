@@ -6,6 +6,7 @@ A fine-tuned BLIP (Bootstrapping Language-Image Pre-training) model for accurate
 ![PyTorch](https://img.shields.io/badge/PyTorch-v1.12+-red.svg)
 ![Transformers](https://img.shields.io/badge/🤗%20Transformers-v4.21+-yellow.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YF97tgCnoibeEJ3YgTFoYmUOhgfadBmU?usp=sharing)
 
 ## 🎯 Overview
 
@@ -29,7 +30,18 @@ Output: "12:00" ✅
 
 ## 🚀 Quick Start
 
-### Installation
+### Try it Online 🌐
+**🔥 Want to test the model immediately?** Use our interactive Google Colab notebook:
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1YF97tgCnoibeEJ3YgTFoYmUOhgfadBmU?usp=sharing)
+
+The Colab notebook includes:
+- Pre-loaded model and dependencies
+- Sample clock images to test
+- Interactive interface for uploading your own images
+- Step-by-step explanations
+
+### Local Installation
 
 1. **Clone the repository**
 ```bash
@@ -214,8 +226,6 @@ If you use this work in your research, please cite:
   url={https://github.com/hsbl1234/blip-clock-time-reading}
 }
 ```
-
-
 
 ## 🔄 Changelog
 
