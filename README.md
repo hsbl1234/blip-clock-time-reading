@@ -145,12 +145,6 @@ results = predictor.predict_folder("./path/to/images/")
 - Vintage and modern timepieces
 - Various lighting conditions
 
-❌ **Not Supported:**
-- Digital clocks/displays
-- Extremely blurry images
-- Partially obscured clocks
-- Non-standard clock designs
-
 ## 🛠️ Development
 
 ### Setup Development Environment
